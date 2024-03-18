@@ -1,0 +1,30 @@
+{
+  "name": "filatovmark",
+  "version": "1.0.0",
+  "description": "A collection of helper functions for cryptographic operations like password hashing and JWT generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filatovmark997/filatovmark"
+  },
+  "dependencies": {
+	  "lisacollins": "1.0.0",
+"kennethallen": "1.0.0",
+"md-zheminivan": "1.0.0",
+"susanmartin": "1.0.0",
+"anthonyjones-mode": "1.0.0",
+"sharondavis": "1.0.0",
+"v2-sharondavis": "1.0.0",
+    "bcrypt": "^5.0.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filatovmark997/filatovmark/issues"
+  },
+  "homepage": "https://github.com/filatovmark997/filatovmark#readme"
+}
